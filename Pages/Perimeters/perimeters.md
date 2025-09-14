@@ -59,6 +59,9 @@ has_toc: true
 ----
 ## **Ссылки на скачивание:**
 [Chronos trenchers](media/Chronos Trencher Collection.zip)
+
 [13 wide](media/6gt_trencher_13_wide_1.18_weather_proof.litematic)
+
 [528 World Eater](media/528SmallTrenchWorldEater.litematic)
+
 [272 World Eater](media/272SmallTrenchWorldEater.litematic)
