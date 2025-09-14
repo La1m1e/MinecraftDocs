@@ -28,11 +28,18 @@ layout: page
 <img src="media/perimeter1.png" alt="drawing" width="600"/>
 ### **2. Используя инструменты лайтматки, сохраните регионы с несколькими последними машинками**
 <img src="media/perimeter2.png" alt="drawing" width="600"/>
-### **3. Подвиньте схематику машинок до нужного размера, следите чтобы они сошлись с обеих сторон
+### **3. Подвиньте схематику машинок до нужного размера, следите чтобы они сошлись с обеих сторон**
 <img src="media/perimeter3.png" alt="drawing" width="600"/>
 ### **4. Сломайте или //set всё лишнее, потом вставьте схему**
 <img src="media/perimeter4.png" alt="drawing" width="600"/>
 <img src="media/perimeter5.png" alt="drawing" width="600"/>
-
+### **5. Повторите для нижней части, следите чтобы верх и низ не отличались по длинне больше чем на 2-3 блока**
+<img src="media/perimeter6.png" alt="drawing" width="600"/>
+<img src="media/perimeter7.png" alt="drawing" width="600"/>
+<img src="media/perimeter8.png" alt="drawing" width="600"/>
+### **6. Проверьте схему на наличие лишних блоков через лайтматику**
+<img src="media/perimeter9.png" alt="drawing" width="600"/>
+### **В ином случае у вас произойдет нечто такое:**
+<img src="media/perimeter10.png" alt="drawing" width="600"/>
 
 ## **Ссылки на скачивание:**
