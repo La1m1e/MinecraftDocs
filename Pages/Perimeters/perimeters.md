@@ -1,6 +1,7 @@
 ---
 title: Периметры
 layout: page
+has_toc: true
 ---
 # **Всё о периметрах**
 ----
@@ -23,23 +24,41 @@ layout: page
 ### **- 3-way дюперы, или в народе "Гуси"**
  Требуют ручной уборки жидкостей и постоянного мониторинга процесса. Не рекомендуется
 
+----
 ## **Как изменить размер World Eater**
 ### **1. Вставьте скачанную схему в креативе**
-<img src="media/perimeter1.png" alt="drawing" width="600"/>
+<img src="media/perimeter1.png" alt="drawing" width="500"/>
 ### **2. Используя инструменты лайтматки, сохраните регионы с несколькими последними машинками**
-<img src="media/perimeter2.png" alt="drawing" width="600"/>
+<img src="media/perimeter2.png" alt="drawing" width="500"/>
 ### **3. Подвиньте схематику машинок до нужного размера, следите чтобы они сошлись с обеих сторон**
-<img src="media/perimeter3.png" alt="drawing" width="600"/>
+<img src="media/perimeter3.png" alt="drawing" width="500"/>
 ### **4. Сломайте или //set всё лишнее, потом вставьте схему**
-<img src="media/perimeter4.png" alt="drawing" width="600"/>
-<img src="media/perimeter5.png" alt="drawing" width="600"/>
+<img src="media/perimeter4.png" alt="drawing" width="500"/>
+<img src="media/perimeter5.png" alt="drawing" width="500"/>
 ### **5. Повторите для нижней части, следите чтобы верх и низ не отличались по длинне больше чем на 2-3 блока**
-<img src="media/perimeter6.png" alt="drawing" width="600"/>
-<img src="media/perimeter7.png" alt="drawing" width="600"/>
-<img src="media/perimeter8.png" alt="drawing" width="600"/>
+<img src="media/perimeter6.png" alt="drawing" width="500"/>
+<img src="media/perimeter7.png" alt="drawing" width="500"/>
+<img src="media/perimeter8.png" alt="drawing" width="500"/>
 ### **6. Проверьте схему на наличие лишних блоков через лайтматику**
-<img src="media/perimeter9.png" alt="drawing" width="600"/>
+<img src="media/perimeter9.png" alt="drawing" width="500"/>
 ### **В ином случае у вас произойдет нечто такое:**
-<img src="media/perimeter10.png" alt="drawing" width="600"/>
+<img src="media/perimeter10.png" alt="drawing" width="500"/>
 
+----
+## **В мире**
+### **Установите 13-wide tencher на широкие части траншеи. Используйте схему World Eater выровнянную по территрии и расчистите колонну блоков до бедрока под разметкой из белой шерсти**
+<img src="media/perimeter11.png" alt="drawing" width="500"/>
+
+### **Вы так же можете использовать 12-wide тренчер**
+<img src="media/perimeter12.png" alt="drawing" width="500"/>
+
+### **Боковые траншеи можно выкопать используя 3-wide тренчеры**
+
+### **После готовых трашней, можно строить и сам World Eater**
+
+----
 ## **Ссылки на скачивание:**
+[Chronos trenchers](media/Chronos Trencher Collection.zip)
+[13 wide](media/6gt_trencher_13_wide_1.18_weather_proof.litematic)
+[528 World Eater](media/528SmallTrenchWorldEater.litematic)
+[272 World Eater](media/272SmallTrenchWorldEater.litematic)
