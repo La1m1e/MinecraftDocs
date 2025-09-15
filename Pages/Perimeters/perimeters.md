@@ -2,8 +2,11 @@
 title: Периметры
 layout: page
 has_toc: true
+nav_order: 1
 ---
 # **Всё о периметрах**
+Все ссылки на скачивание механизмов внизу страницы
+
 ----
 ## **Периметр - искуственно созданная очищенная от блоков и мобов область глубиной до бедрока (-60 или 4 высоты в аду) используемая для повышения поизводительности ферм или построек**
 ----
@@ -54,15 +57,22 @@ has_toc: true
 <img src="media/perimeter12.png" alt="drawing" width="500"/>
 
 ### **Боковые траншеи можно выкопать используя 3-wide тренчеры**
+Процесс можете увидеть в [видео](https://youtu.be/DzmUeYRyVLw?si=AYKRYzccRE8IXLe4){:target="_blank"} на канале
 
 ### **После готовых трашней, можно строить и сам World Eater**
 
+Если что-то не понятно - перед тем как задавать вопросы **ЗАЙДИТЕ В КРЕАТИВ И ПОТЫКАЙТЕ КАК И ЧТО РАБОТАЕТ ПО ОТДЕЛЬНОСТИ**
+
 ----
 ## **Ссылки на скачивание:**
-[Chronos trenchers](media/Chronos Trencher Collection.zip)
+**[Chronos trenchers](media/Chronos Trencher Collection.zip){:target="_blank"}**
 
-[13 wide](media/6gt_trencher_13_wide_1.18_weather_proof.litematic)
+**[13 wide](media/6gt_trencher_13_wide_1.18_weather_proof.litematic){:target="_blank"}**
 
-[528 World Eater](media/528SmallTrenchWorldEater.litematic)
+**[528 World Eater](media/528SmallTrenchWorldEater.litematic){:target="_blank"}**
 
-[272 World Eater](media/272SmallTrenchWorldEater.litematic)
+**[272 World Eater](media/272SmallTrenchWorldEater.litematic){:target="_blank"}**
+
+**[3-way Downaccel Дюпер](media/3-way_downaccel.litematic){:target="_blank"}**
+
+----
