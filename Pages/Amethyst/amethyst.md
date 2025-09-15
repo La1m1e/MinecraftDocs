@@ -2,7 +2,7 @@
 title: Аметист
 layout: page
 has_toc: true
-nav_order: 2
+nav_order: 10
 ---
 
 # **Ферма аметистов - разбор видео**
@@ -72,7 +72,7 @@ nav_order: 2
 ----
 ## **[4:21,](https://youtu.be/YXl0l1Z1U3A?si=aytfZwuLKPcN2USU&t=261) [6:25](https://youtu.be/YXl0l1Z1U3A?si=aytfZwuLKPcN2USU&t=385){:target="_blank"} - Автоматическая установка стен**
 
-### **Используются механизмы похожие на Floor Placer, тоько двигающиеся вертикально**
+### **Используются [механизмы](/Pages/Amethyst/amethyst.html#ссылки-на-скачивание) похожие на Floor Placer, только двигающиеся вертикально**
 
 <img src="media/am9.png" alt="drawing" width="500"/>
 
@@ -81,7 +81,26 @@ nav_order: 2
 <img src="media/am10.png" alt="drawing" width="500"/>
 <img src="media/am11.png" alt="drawing" width="500"/>
 
-Удлиннять механизм так же как и остальные, поворачивать на углах можно используя угловые модули, доступные внутри скачиваемой схематики
+Удлинять механизм так же как и остальные, поворачивать на углах можно используя угловые модули, доступные внутри скачиваемой схематики
+
+----
+## **[5:00](https://youtu.be/YXl0l1Z1U3A?si=aytfZwuLKPcN2USU&t=300){:target="_blank"} - Декор в Blender**
+
+**Используя [Mineways](https://www.realtimerendering.com/erich/minecraft/public/mineways/){:target="_blank"} можно экспортировать постройку в [блендер](https://www.blender.org/){:target="_blank"} и использовать её для моделирования нужного вам декора**
+
+*Пользуйтесь существующими гайдами по Blender*
+
+**После создания готовой модели, её можно экспортировать используя расширение BlockBlender (Платное) доступное в двух вариантах:**
+
+Старый (разделен на BlockBlender и [Schematic Exporter](https://github.com/BryanValc/BlockBlenderSchemExport){:target="_blank"}, оба из которых уже не продаются) 
+
+И новый - полноценный [BlockBlender V2](https://erasers45.gumroad.com/l/blockblender2) с полным функционалом и [гайдом](https://www.youtube.com/watch?v=mPaI3xB79vQ){:target="_blank"}
+
+----
+
+## **[6:25](https://youtu.be/YXl0l1Z1U3A?si=aytfZwuLKPcN2USU&t=385){:target="_blank"} - Автоматическая установка стен**
+
+**Обратитесь к таймкоду [4:21 - Автоматическая установка стен](/Pages/Amethyst/amethyst.html#421-625---автоматическая-установка-стен) выше**
 
 ----
 ## **Ссылки на скачивание**
