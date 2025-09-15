@@ -1,5 +1,5 @@
 ---
-title: Аметист
+title: 🟣 Аметист
 layout: page
 has_toc: true
 nav_order: 10

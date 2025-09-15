@@ -1,5 +1,5 @@
 ---
-title: Главная
+title: 🏠 Главная
 layout: home
 nav_order: 0
 ---
