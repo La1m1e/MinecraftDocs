@@ -1,5 +1,5 @@
 ---
-title: ℹ️ Полезные статьи
+title: ℹ️ Полезные статьи и гайды
 layout: home
 nav_order: 2
 has_children: true
