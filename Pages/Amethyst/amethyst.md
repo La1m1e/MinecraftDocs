@@ -14,15 +14,15 @@ nav_order: 10
 Аметист растёт из блоков "Budding Amethyst", которые можно найти внутри натурально сгенерированных геод. Так как он растет медленно, для нормальной скорости фермы необходимы несколько находящихся рядом геод. В данном видео были использованы фермы на летающих машинках, которые сталкивают выросшие кристаллы каждые 167 минут. Так как были выкопаны 24 отдельные геоды, скорость фермы по итогу составила 2400 в час, что является одним из самых быстрых результатов достигнутых в выживании.
 
 ----
-## **[1:20-2:00](https://youtu.be/YXl0l1Z1U3A?si=aytfZwuLKPcN2USU&t=79){:target="_blank"} - Создание [периметра](/Pages/Perimeters/perimeters.html)**
-**Для создания мериметра для фермы были использованы инструменты из [статьи про периметры](/Pages/Perimeters/perimeters.html)**
+## **[1:20-2:00](https://youtu.be/YXl0l1Z1U3A?si=aytfZwuLKPcN2USU&t=79){:target="_blank"} - Создание [периметра](../Perimeters/perimeters.html)**
+**Для создания мериметра для фермы были использованы инструменты из [статьи про периметры](../Perimeters/perimeters.html)**
 
-Для сохранения аметистовых геод центральная часть была выкопана при помощи [3-way дюперов](/Pages/Perimeters/perimeters.html#ссылки-на-скачивание)
+Для сохранения аметистовых геод центральная часть была выкопана при помощи [3-way дюперов](../Perimeters/perimeters.html#ссылки-на-скачивание)
 **Геоды были окружены обсидиановыми коробками и водой.**
 
 <img src="media/am2.png" alt="drawing" width="500"/>
 
-Окружающее пространство было выкопано при помощи четырех [World Eater](/Pages/Perimeters/perimeters.html#--world-eater)'ов
+Окружающее пространство было выкопано при помощи четырех [World Eater](../Perimeters/perimeters.html#--world-eater)'ов
 
 <img src="media/am3.png" alt="drawing" width="500"/>
 
@@ -33,7 +33,7 @@ nav_order: 10
 ----
 ## **[3:30-3:37](https://youtu.be/YXl0l1Z1U3A?si=aytfZwuLKPcN2USU&t=210){:target="_blank"} - Механизм для установки пола**
 
-**Для этого был использован механизм [Floor Placer](/Pages/Amethyst/amethyst.html#ссылки-на-скачивание) и [шедоу - предметы](https://www.youtube.com/watch?v=DPxTUuADxac){:target="_blank"} передававшие в инвентарь игроку блоки для установки**
+**Для этого был использован механизм [Floor Placer](../Amethyst/amethyst.html#ссылки-на-скачивание) и [шедоу - предметы](https://www.youtube.com/watch?v=DPxTUuADxac){:target="_blank"} передававшие в инвентарь игроку блоки для установки**
 
 <img src="media/am4.png" alt="drawing" width="500"/>
 
@@ -43,7 +43,7 @@ nav_order: 10
 
 <img src="media/am6.png" alt="drawing" width="500"/>
 
-Для удлиннения механизма процесс похож на [Периметры](/Pages/Perimeters/perimeters.html#как-изменить-размер-world-eater), только вам необходимо удлиннить центр, а концы оставить
+Для удлиннения механизма процесс похож на [Периметры](../Perimeters/perimeters.html#как-изменить-размер-world-eater), только вам необходимо удлиннить центр, а концы оставить
 
 <img src="media/am5.png" alt="drawing" width="500"/>
 
@@ -77,7 +77,7 @@ nav_order: 10
 ----
 ## **[4:21,](https://youtu.be/YXl0l1Z1U3A?si=aytfZwuLKPcN2USU&t=261) [6:25](https://youtu.be/YXl0l1Z1U3A?si=aytfZwuLKPcN2USU&t=385){:target="_blank"} - Автоматическая установка стен**
 
-### **Используются [механизмы](/Pages/Amethyst/amethyst.html#ссылки-на-скачивание) похожие на Floor Placer, только двигающиеся вертикально**
+### **Используются [механизмы](../Amethyst/amethyst.html#ссылки-на-скачивание) похожие на Floor Placer, только двигающиеся вертикально**
 
 <img src="media/am9.png" alt="drawing" width="500"/>
 
@@ -105,7 +105,7 @@ nav_order: 10
 
 ## **[6:25](https://youtu.be/YXl0l1Z1U3A?si=aytfZwuLKPcN2USU&t=385){:target="_blank"} - Автоматическая установка стен**
 
-**Обратитесь к таймкоду [4:21 - Автоматическая установка стен](/Pages/Amethyst/amethyst.html#421-625---автоматическая-установка-стен) выше**
+**Обратитесь к таймкоду [4:21 - Автоматическая установка стен](../Amethyst/amethyst.html#421-625---автоматическая-установка-стен) выше**
 
 ----
 ## **Ссылки на скачивание**
