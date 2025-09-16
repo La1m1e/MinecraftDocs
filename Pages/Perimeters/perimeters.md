@@ -64,6 +64,12 @@ parent: ℹ️ Полезные статьи и гайды
 
 ----
 
+## **Ссылки на скачивание:**
+
+**[Chronos trenchers](media/Chronos Trencher Collection.zip){:target="_blank"}**
+
+**[13 wide](media/6gt_trencher_13_wide_1.18_weather_proof.litematic){:target="_blank"}**
+
 **[528 World Eater](media/528SmallTrenchWorldEater.litematic){:target="_blank"}**
 
 **[272 World Eater](media/272SmallTrenchWorldEater.litematic){:target="_blank"}**
