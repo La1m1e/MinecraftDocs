@@ -63,10 +63,6 @@ parent: ℹ️ Полезные статьи и гайды
 Если что-то не понятно - перед тем как задавать вопросы **ЗАЙДИТЕ В КРЕАТИВ И ПОТЫКАЙТЕ КАК И ЧТО РАБОТАЕТ ПО ОТДЕЛЬНОСТИ**
 
 ----
-## **Ссылки на скачивание:**
-**[Chronos trenchers](media/Chronos Trencher Collection.zip){:target="_blank"}**
-
-**[13 wide](media/6gt_trencher_13_wide_1.18_weather_proof.litematic){:target="_blank"}**
 
 **[528 World Eater](media/528SmallTrenchWorldEater.litematic){:target="_blank"}**
 
